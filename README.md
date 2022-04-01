@@ -1,2 +1,2 @@
-# PokemonCommandLine
-Pokemon in Command Line
+# Pokemon Command Line edition
+Pokemon in the command line
